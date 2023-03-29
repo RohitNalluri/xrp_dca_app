@@ -3,7 +3,7 @@ import xumm
 import xrpl
 import time
 
-# Define a function to select the cryptocurrency to invest in
+# Define a function to select the cryptocurrency to invest in. Hardcoded for now for simplicity, this will have to be updated to a more user-friendly option.
 def select_crypto():
     print("Select the cryptocurrency to invest in:\n")
     print("1. Bitcoin (BTC)")
